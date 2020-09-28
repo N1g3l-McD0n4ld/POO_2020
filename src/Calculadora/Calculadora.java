@@ -11,5 +11,5 @@ public class Calculadora {
 	public double suma(double a, double b) {
 		saveToHistory(a+"+"+b);
 		return a+b;
-		}
+		}                                             // a ver si cambia git
 }
